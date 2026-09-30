@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Martin Alonso Gonzalez Holguin \[23212198]; l23212198@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
