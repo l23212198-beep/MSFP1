@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica 1: Diseño de controladores'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - email: l23212198@tectijuana.edu.mx
+    given-names: 'Martin A. '
+    family-names: Gonzalez Holguin
+    affiliation: TecNM IT Tijuana
+repository-code: 'https://github.com/l23212198-beep/MSFP1'
+keywords:
+  - Simulaciones numéricas
+  - Modelo matemático
+  - Circuito RLC
+  - Controlador I
+  - DIseño de controlador
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-09-29'
